@@ -6,12 +6,12 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: Main
       - about.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
     toc: true
 
