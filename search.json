@@ -1,16 +1,65 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "funsite",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "Projects/export.html",
+    "href": "Projects/export.html",
+    "title": "portfolio",
+    "section": "",
+    "text": "BACK TO PROJECT PAGE"
+  },
+  {
+    "objectID": "Projects/export.html#exports-of-the-central-african-republic",
+    "href": "Projects/export.html#exports-of-the-central-african-republic",
+    "title": "portfolio",
+    "section": "",
+    "text": "BACK TO PROJECT PAGE"
+  },
+  {
+    "objectID": "Projects/test.html",
+    "href": "Projects/test.html",
+    "title": "portfolio",
+    "section": "",
+    "text": "BACK TO PROJECT PAGE"
+  },
+  {
+    "objectID": "Projects/test.html#title",
+    "href": "Projects/test.html#title",
+    "title": "portfolio",
+    "section": "",
+    "text": "BACK TO PROJECT PAGE"
+  },
+  {
+    "objectID": "Projects/housing.html",
+    "href": "Projects/housing.html",
+    "title": "portfolio",
+    "section": "",
+    "text": "BACK TO PROJECT PAGE"
+  },
+  {
+    "objectID": "Projects/housing.html#exports-of-the-central-african-republic",
+    "href": "Projects/housing.html#exports-of-the-central-african-republic",
+    "title": "portfolio",
+    "section": "",
+    "text": "BACK TO PROJECT PAGE"
+  },
+  {
+    "objectID": "Projects/xray.html",
+    "href": "Projects/xray.html",
+    "title": "portfolio",
+    "section": "",
+    "text": "BACK TO PROJECT PAGE"
+  },
+  {
+    "objectID": "Projects/xray.html#title",
+    "href": "Projects/xray.html#title",
+    "title": "portfolio",
+    "section": "",
+    "text": "BACK TO PROJECT PAGE"
   }
 ]
