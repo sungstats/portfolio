@@ -17,3 +17,27 @@ about:
           text: Email
           href: mailto:sbak@ucdavis.edu
 ---
+
+
+
+:::{#hero-heading}
+
+
+
+
+### Aloha
+
+I am a statistics student with a focus on data science. 
+
+I have developed a strong foundation in statistical concepts and methods including machine learning and data visualization. 
+
+I'm passionate about various applications of statistics and eager to contribute to the field of data science.
+
+
+## Education
+
+University of California, Davis | Davis, CA  
+BS in Statistics | Expected June 2024
+
+
+:::

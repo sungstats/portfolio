@@ -7,10 +7,94 @@
     "text": "About this site"
   },
   {
+    "objectID": "Projects/test.html",
+    "href": "Projects/test.html",
+    "title": "portfolio",
+    "section": "",
+    "text": "BACK TO PROJECT PAGE"
+  },
+  {
+    "objectID": "Projects/test.html#title",
+    "href": "Projects/test.html#title",
+    "title": "portfolio",
+    "section": "",
+    "text": "BACK TO PROJECT PAGE"
+  },
+  {
+    "objectID": "Projects/housing.html",
+    "href": "Projects/housing.html",
+    "title": "portfolio",
+    "section": "",
+    "text": "BACK TO PROJECT PAGE"
+  },
+  {
+    "objectID": "Projects/housing.html#exports-of-the-central-african-republic",
+    "href": "Projects/housing.html#exports-of-the-central-african-republic",
+    "title": "portfolio",
+    "section": "",
+    "text": "BACK TO PROJECT PAGE"
+  },
+  {
+    "objectID": "Projects/export.html",
+    "href": "Projects/export.html",
+    "title": "portfolio",
+    "section": "",
+    "text": "BACK TO PROJECT PAGE"
+  },
+  {
+    "objectID": "Projects/export.html#exports-of-the-central-african-republic",
+    "href": "Projects/export.html#exports-of-the-central-african-republic",
+    "title": "portfolio",
+    "section": "",
+    "text": "BACK TO PROJECT PAGE"
+  },
+  {
+    "objectID": "Projects/xray.html",
+    "href": "Projects/xray.html",
+    "title": "portfolio",
+    "section": "",
+    "text": "BACK TO PROJECT PAGE"
+  },
+  {
+    "objectID": "Projects/xray.html#title",
+    "href": "Projects/xray.html#title",
+    "title": "portfolio",
+    "section": "",
+    "text": "BACK TO PROJECT PAGE"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Sungwoo",
+    "section": "",
+    "text": "Projects"
+  },
+  {
+    "objectID": "statistics.html",
+    "href": "statistics.html",
+    "title": "Sungwoo",
+    "section": "",
+    "text": "Statistical Topics"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "funsite",
+    "title": "Sung Woo Bak",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I am a statistics student with a focus on data science.\nI have developed a strong foundation in statistical concepts and methods including machine learning and data visualization.\nI’m passionate about various applications of statistics and eager to contribute to the field of data science.\n\n\n\nUniversity of California, Davis | Davis, CA\nBS in Statistics | Expected June 2024"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Sung Woo Bak",
+    "section": "",
+    "text": "University of California, Davis | Davis, CA\nBS in Statistics | Expected June 2024"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Sung Woo Bak",
+    "section": "",
+    "text": "TEST"
   }
 ]
