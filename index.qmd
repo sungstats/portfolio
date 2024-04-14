@@ -1,7 +1,19 @@
 ---
-title: "funsite"
+title: "Sung Woo Bak"
+image: Sungwoo.png
+toc: false
+about:
+    template: trestles
+    image-shape: round
+    image-width: 20em
+    links:
+        - icon: linkedin
+          text: LinkedIn
+          href: https://www.linkedin.com/in/sungstats/
+        - icon: github
+          text: GitHub
+          href: https://github.com/sungstats
+        - icon: envelope
+          text: Email
+          href: mailto:sbak@ucdavis.edu
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
