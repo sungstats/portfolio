@@ -2,4 +2,19 @@
 title: "About"
 ---
 
-About this site
+Hello! My name is **Sung Woo Bak** and I am currently a student at UC Davis pursuing BS in Statistical Data Science.
+
+
+## Skills
+
+
+## Experience
+
+ROK Army
+
+FRL Korea (Uniqlo)
+
+## Resume
+
+
+

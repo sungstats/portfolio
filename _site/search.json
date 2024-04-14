@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "Hello! My name is Sung Woo Bak and I am currently a student at UC Davis pursuing BS in Statistical Data Science."
   },
   {
     "objectID": "Projects/test.html",
@@ -37,7 +37,7 @@
   {
     "objectID": "Projects/export.html",
     "href": "Projects/export.html",
-    "title": "portfolio",
+    "title": "Project Title",
     "section": "",
     "text": "BACK TO PROJECT PAGE"
   },
@@ -67,7 +67,7 @@
     "href": "project.html",
     "title": "Sungwoo",
     "section": "",
-    "text": "Projects"
+    "text": "Projects\n\nPredicting Pneumonia on X-ray Images\n\n\nHandwritten Digits Classification\n\n\nForecasting Export GDP of Central African Republic\n\n\nPredicting Mice Behavior with Neural Activity\n\n\nNorthern UC Campus Housing Price Analysis\n\n\n\nIn Progress\n\nPredicting Performance of Major League Pitcher\n\n\nClassification on Heart Disease"
   },
   {
     "objectID": "statistics.html",
@@ -96,5 +96,47 @@
     "title": "Sung Woo Bak",
     "section": "",
     "text": "TEST"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About",
+    "section": "Skills",
+    "text": "Skills"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nROK Army\nFRL Korea (Uniqlo)"
+  },
+  {
+    "objectID": "about.html#resume",
+    "href": "about.html#resume",
+    "title": "About",
+    "section": "Resume",
+    "text": "Resume"
+  },
+  {
+    "objectID": "project.html#in-progress",
+    "href": "project.html#in-progress",
+    "title": "Projects",
+    "section": "In Progress",
+    "text": "In Progress\n\nPredicting Performance of Major League Pitcher\n\n\nClassification on Heart Disease"
+  },
+  {
+    "objectID": "note.html",
+    "href": "note.html",
+    "title": "Note",
+    "section": "",
+    "text": "GIT Cheatsheet"
+  },
+  {
+    "objectID": "Notes/git.html",
+    "href": "Notes/git.html",
+    "title": "GIT Cheatsheet",
+    "section": "",
+    "text": "git status\ngit remote -v\ngit add .\ngit commit -m “Commit”\ngit push origin (branch)\n\nBack to Note"
   }
 ]

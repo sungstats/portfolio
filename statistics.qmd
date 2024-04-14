@@ -1,1 +1,3 @@
-#### Statistical Topics
+---
+title: "Statistical Topics"
+---

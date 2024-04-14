@@ -1,1 +1,23 @@
-#### Projects
+---
+title: "Projects"
+---
+
+
+#### Predicting Pneumonia on X-ray Images
+
+#### Handwritten Digits Classification
+
+#### Forecasting Export GDP of Central African Republic
+
+#### Predicting Mice Behavior with Neural Activity
+
+#### Northern UC Campus Housing Price Analysis
+
+
+
+## In Progress
+
+
+#### Predicting Performance of Major League Pitcher
+
+#### Classification on Heart Disease

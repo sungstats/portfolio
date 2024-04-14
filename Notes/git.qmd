@@ -1,0 +1,20 @@
+---
+title: "GIT Cheatsheet"
+---
+
+
+
+- git status
+
+- git remote -v
+
+- git add .
+
+- git commit -m "Commit"
+
+- git push origin (branch)
+
+
+
+
+[Back to Note](../note.qmd)
