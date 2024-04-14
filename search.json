@@ -4,19 +4,33 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "Hello! My name is Sung Woo Bak and I am currently a student at UC Davis pursuing BS in Statistical Data Science."
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About",
+    "section": "Skills",
+    "text": "Skills"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nROK Army\nFRL Korea (Uniqlo)"
+  },
+  {
+    "objectID": "about.html#resume",
+    "href": "about.html#resume",
+    "title": "About",
+    "section": "Resume",
+    "text": "Resume"
   },
   {
     "objectID": "Projects/export.html",
     "href": "Projects/export.html",
-    "title": "Sungwoo",
-    "section": "",
-    "text": "BACK TO PROJECT PAGE"
-  },
-  {
-    "objectID": "Projects/export.html#exports-of-the-central-african-republic",
-    "href": "Projects/export.html#exports-of-the-central-african-republic",
-    "title": "Sungwoo",
+    "title": "Project Title",
     "section": "",
     "text": "BACK TO PROJECT PAGE"
   },
@@ -35,11 +49,11 @@
     "text": "BACK TO PROJECT PAGE"
   },
   {
-    "objectID": "statistics.html",
-    "href": "statistics.html",
-    "title": "Sungwoo",
+    "objectID": "Notes/git.html",
+    "href": "Notes/git.html",
+    "title": "GIT Cheatsheet",
     "section": "",
-    "text": "Statistical Topics"
+    "text": "git status\ngit remote -v\ngit add .\ngit commit -m “Commit”\ngit push origin (branch)\n\nBack to Note"
   },
   {
     "objectID": "index.html",
@@ -54,6 +68,13 @@
     "title": "Sung Woo Bak",
     "section": "",
     "text": "University of California, Davis | Davis, CA\nBS in Statistics | Expected June 2024"
+  },
+  {
+    "objectID": "note.html",
+    "href": "note.html",
+    "title": "Note",
+    "section": "",
+    "text": "GIT Cheatsheet"
   },
   {
     "objectID": "Projects/housing.html",
@@ -84,10 +105,10 @@
     "text": "BACK TO PROJECT PAGE"
   },
   {
-    "objectID": "project.html",
-    "href": "project.html",
-    "title": "Sungwoo",
-    "section": "",
-    "text": "Projects"
+    "objectID": "project.html#in-progress",
+    "href": "project.html#in-progress",
+    "title": "Projects",
+    "section": "In Progress",
+    "text": "In Progress\n\nPredicting Performance of Major League Pitcher\n\n\nClassification on Heart Disease"
   }
 ]
